@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-color: #95fcfc;
+}
+.Jumbotron {
+  text-align: center;
+  background-color: #95fcfc;
+  padding-bottom: 1%;
+}
+.jumbo {
+  background-color: #95fcfc;
+  background-size: cover;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.waktu {
+  background-color: #1f6e6e;
+  color: white;
+}
+.antrian {
+  padding-top: 5%;
+  background-color: #2b9292;
+  color: white;
+  padding-bottom: 5%;
+}
+.antrian1 {
+  font-size: 50px;
+}
+.antrian2 {
+  font-size: 50px;
+}
+.kotak-nomor {
+  padding-top: 1%;
+}
+.card-header{
+  background-color: #1f6e6e !important;
+  color: white;
+  text-align: center;
+}
+.card-body{
+  background-color: #5da8a8;
+  color: white;
+  text-align: center;
+}
+.footer {
+  background-color: #1f6e6e;
+  color: white;
+}
