@@ -37,7 +37,7 @@ class Center extends Component {
             <div className="container-fluid">
                 <div className="row waktu text-center">
                     <div className="col-md-5 py-1">
-                        <h4 id="clock" class="my-0">{this.state.date.toLocaleTimeString()}</h4>
+                        <h4 id="clock" className="my-0">{this.state.date.toLocaleTimeString()}</h4>
                     </div>
                     <div className="col-md-6 py-1">
                         <h4 id="hari text-center" className="my-0">
